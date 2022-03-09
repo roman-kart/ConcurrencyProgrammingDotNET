@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcAsync", "ProcAsync.csproj", "{802C3888-A013-4C61-ABC5-16131081CD75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802C3888-A013-4C61-ABC5-16131081CD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802C3888-A013-4C61-ABC5-16131081CD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802C3888-A013-4C61-ABC5-16131081CD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802C3888-A013-4C61-ABC5-16131081CD75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {278C76A3-5D44-40D9-8BDB-53F6F7E1635D}
+	EndGlobalSection
+EndGlobal

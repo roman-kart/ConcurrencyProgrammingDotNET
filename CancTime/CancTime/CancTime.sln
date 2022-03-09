@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancTime", "CancTime.csproj", "{A45F5A69-758B-4BD5-BDAA-9A18C25C5F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A45F5A69-758B-4BD5-BDAA-9A18C25C5F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A45F5A69-758B-4BD5-BDAA-9A18C25C5F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A45F5A69-758B-4BD5-BDAA-9A18C25C5F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A45F5A69-758B-4BD5-BDAA-9A18C25C5F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32E9A274-43B2-44A3-87F3-9CE06BBDD6A7}
+	EndGlobalSection
+EndGlobal
