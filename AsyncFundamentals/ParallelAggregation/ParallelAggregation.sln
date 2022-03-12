@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelAggregation", "ParallelAggregation.csproj", "{B0826C1A-58D5-43E1-AC58-CE30E6205621}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0826C1A-58D5-43E1-AC58-CE30E6205621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0826C1A-58D5-43E1-AC58-CE30E6205621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0826C1A-58D5-43E1-AC58-CE30E6205621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0826C1A-58D5-43E1-AC58-CE30E6205621}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC0136D0-AD3C-4CBD-A80E-FD29EB0B697E}
+	EndGlobalSection
+EndGlobal
