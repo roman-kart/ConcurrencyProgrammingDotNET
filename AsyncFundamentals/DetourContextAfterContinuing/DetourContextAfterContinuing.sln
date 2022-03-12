@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetourContextAfterContinuing", "DetourContextAfterContinuing.csproj", "{666BEC0E-C744-42D0-9183-9F0931579474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666BEC0E-C744-42D0-9183-9F0931579474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666BEC0E-C744-42D0-9183-9F0931579474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666BEC0E-C744-42D0-9183-9F0931579474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666BEC0E-C744-42D0-9183-9F0931579474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E57E0A0-3673-4E13-8261-7929E558D917}
+	EndGlobalSection
+EndGlobal
