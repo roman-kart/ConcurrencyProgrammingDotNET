@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationPersonalBlocks", "CreationPersonalBlocks.csproj", "{48DED617-29B9-4475-9E29-1ED601237CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DED617-29B9-4475-9E29-1ED601237CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DED617-29B9-4475-9E29-1ED601237CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DED617-29B9-4475-9E29-1ED601237CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DED617-29B9-4475-9E29-1ED601237CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FC6441D-BA7C-4536-BBB7-8F759F8B630A}
+	EndGlobalSection
+EndGlobal
